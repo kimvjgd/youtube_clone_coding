@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:youtube_clone_coding/binding/init_binding.dart';
 import 'package:youtube_clone_coding/src/app.dart';
+import 'package:youtube_clone_coding/src/binding/init_binding.dart';
 
 
 void main() {
